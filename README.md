@@ -1,0 +1,2 @@
+# CollegeMgntSystem
+College Management System
